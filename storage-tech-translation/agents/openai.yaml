@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storage Tech Translation"
+  short_description: "Translate storage-tech docs."
+  default_prompt: "Translate this Minecraft storage-tech text into natural Chinese using the local glossary for technical terms and Minecraft Wiki only for official game names."
